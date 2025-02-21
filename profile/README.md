@@ -7,16 +7,14 @@
 
 ## 2. UI
 ![asddddddddd](https://github.com/user-attachments/assets/9768f6fd-abde-41df-ac8f-42c1511fcc2e)
-## 3. 어플리케이션 기능
-## 4. ERD
-## 5. 시스템 아키텍쳐
+## 3. 시스템 아키텍쳐
 ![kube_architecture_re](https://github.com/user-attachments/assets/da3c3184-6bdb-456e-bff3-ceb2ace00a4e)
-## 6. 마이크로 서비스 아키텍쳐
+## 4. 마이크로 서비스 아키텍쳐
 ![architecture_1_background](https://github.com/user-attachments/assets/d574c197-83b1-4445-97a2-5a5619db3af3)
-## 7. 기술 스택
+## 5. 기술 스택
 ![asddddddddd (1)](https://github.com/user-attachments/assets/fe8839ec-13a7-4814-9289-a976bbb14ed1)
 
-## 8. 팀원
+## 6. 팀원
 
 <table align="center">
   <tr>
