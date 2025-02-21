@@ -7,7 +7,6 @@
 
 ## 2. UI
 ![asddddddddd](https://github.com/user-attachments/assets/9768f6fd-abde-41df-ac8f-42c1511fcc2e)
-안정적인 공동구매 경험, **YOGER에서 만나보세요!**     
 ## 3. 어플리케이션 기능
 ## 4. ERD
 ## 5. 시스템 아키텍쳐
