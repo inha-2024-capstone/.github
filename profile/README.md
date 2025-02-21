@@ -11,17 +11,9 @@
 ## 3. 어플리케이션 기능
 ## 4. ERD
 ## 5. 시스템 아키텍쳐
-![image](https://github.com/user-attachments/assets/8f98af12-33a3-462f-b714-ffa32b68db54)
-* 300$ Credit을 위해 GCP를 채택
-* Mysql, Redis는 Managed Service를 사용
-* Confluent Kafka는 Kubernetes 내에 구축
+![kube_architecture_re](https://github.com/user-attachments/assets/da3c3184-6bdb-456e-bff3-ceb2ace00a4e)
 ## 6. 마이크로 서비스 아키텍쳐
-![image](https://github.com/user-attachments/assets/4b88c8eb-cae0-4585-9e0d-ede0d9a40444)
-* User Service: 유저 인증 관련 서비스를 제공. 로그인, JWT 검증 등을 수행
-* Product Service: 제품 관련 도메인을 담당
-* Order Service: 제품 구매 관련 도메인을 담당
-* NGNIX Service: 프론트 엔드 서버를 담당
-* Gateway Service: 인증, 요청 모니터링, 라우팅을 담당
+![architecture_1_background](https://github.com/user-attachments/assets/d574c197-83b1-4445-97a2-5a5619db3af3)
 ## 7. 기술 스택
 ![asddddddddd (1)](https://github.com/user-attachments/assets/fe8839ec-13a7-4814-9289-a976bbb14ed1)
 
